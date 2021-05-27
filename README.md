@@ -1,1 +1,1 @@
-# HSE_deep_learning
+# HSE's Into to Deep learning Assignment solutions
